@@ -1,0 +1,19 @@
+﻿key_resp.keys,key_resp.corr,tilt,,hit,miss,fa,cr,,,,
+up,1,0,,1,,,,,,,
+down,1,-2,,,,,1,,,,
+up,1,0,,1,,,,,,,
+up,1,0,,1,,,,,,Response Yes,Response No
+up,1,0,,1,,,,,Signal Present,Hit,Miss
+down,0,0,,,1,,,,Signal absent,False Alarm,Correct Rejection
+up,0,3,,,,1,,,,,
+up,1,0,,1,,,,,,,
+up,0,4,,,,1,,,,,
+down,0,0,,,1,,,,,,
+,,,Sum ,5,2,2,1,,,,
+,,,,,,,,,,,
+proportion hit,0.714285714,(hit/hit+miss),,,,,,,,,
+proportion fa,0.666666667,(fa/fa+cr),,,,,,,,,
+,,,,,,,,,,,
+d-prime,0.135221523,,2 or above=efficient,,,,,,,,
+,-0.498338061,,below 2=weak,,,,,,,,
+,shows liberal bias,,3 or more=excellent performance,,,,,,,,
