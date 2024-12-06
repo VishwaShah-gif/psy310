@@ -1,0 +1,21 @@
+﻿word,correct_resp,key_resp.rt,trial_type,mean_rt,
+Fear,1,14.8188367,emotionally charged,emotionally charged words,14.54570081
+Love,1,10.1330707,emotionally charged,neutral words,6.76854433
+Hope,1,13.6006897,emotionally charged,,
+Hate,1,13.3599578,emotionally charged,difference in RT,7.77715648
+Death,1,22.3728668,emotionally charged,,
+Peace,1,20.3721883,emotionally charged,,
+Happiness,1,9.6950498,emotionally charged,,
+Joy,1,12.5124625,emotionally charged,,
+Dream,1,15.0940298,emotionally charged,,
+Grief,1,13.497856,emotionally charged,,
+Cloud,1,6.5578072,neutral,,
+Table,1,6.9520005,neutral,,
+Window,1,4.7486031,neutral,,
+Paper,1,5.8703049,neutral,,
+Wall,1,7.5903578,neutral,,
+Chair,1,7.1358797,neutral,,
+Pen,1,11.4980511,neutral,,
+Bottle,1,4.4763248,neutral,,
+Lamp,1,3.9062297,neutral,,
+Brick,1,8.9498845,neutral,,
